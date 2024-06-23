@@ -1,6 +1,8 @@
-# Road-Pothole-Detect 坑洼道路检测
+# Road Pothole Detect 坑洼道路检测
 
 该仓库包含了我参加MatherCup_BigData_2023竞赛A题的所有代码和最终报告，专注于坑洼道路的分类问题。基于深度学习理论，我调整了预训练的VGG16和Inception_v3模型的卷积神经网络结构，建立了一个在自动检测道路图像中是否存在坑洼现象时能够实现高准确率、快速处理速度和精确分类的模型。
+
+![](https://cdn.jsdelivr.net/gh/oixel64/imgs/imgs/202406231803929.jpg)
 
 ## 工作内容
 
